@@ -8,4 +8,8 @@ spec:
     spec:
       containers:
       - name: webserver-simple
+<<<<<<< HEAD
         image: docker.io/kostiscodefresh/simple-env-app:2.0
+=======
+        image: docker.io/kostiscodefresh/simple-env-app:3.0
+>>>>>>> bd4c79d3345cba5961c6278bb44e5ecfa655996e
